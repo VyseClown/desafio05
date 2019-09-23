@@ -41,11 +41,3 @@ https://api.github.com/repos/rocketseat/unform/issues?page=2
 ```
 
 Adicione apenas um botão de próxima página e página anteior. O botão de página anterior deve ficar desativado na primeira página.
-
-## Entrega
-
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do código do desafio aqui: https://github.com/Rocketseat/bootcamp-gostack-desafio-05
-
-Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
-
-“Para quem fica melhor a cada dia, ficar pronto é utopia”!
